@@ -1,7 +1,6 @@
-package com.juhchamp.kambaqrreaderlibrary.listeners
+package com.kamba.qrreader
 
 import com.google.mlkit.vision.barcode.Barcode
-import java.lang.Exception
 
 interface QrDetectorListener {
     fun onDetectQrFromCamera(item: Barcode?)

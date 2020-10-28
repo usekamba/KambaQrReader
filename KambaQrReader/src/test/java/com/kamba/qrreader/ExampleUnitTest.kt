@@ -1,4 +1,4 @@
-package com.juhchamp.kambaqrreaderlibrary
+package com.kamba.qrreader
 
 import org.junit.Test
 

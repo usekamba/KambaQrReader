@@ -28,7 +28,7 @@
     </com.otaliastudios.cameraview.CameraView>
 
     <!-- camera overlay with transparent box centered -->
-    <com.juhchamp.kambaqrreaderlibrary.ui.QrOverlayMask
+    <com.kamba.qrreader.QrOverlayMask
         android:id="@+id/qrOverlayMask"
         android:layout_width="match_parent"
         android:layout_height="match_parent"

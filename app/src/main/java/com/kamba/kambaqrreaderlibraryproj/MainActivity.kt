@@ -1,10 +1,10 @@
-package com.juhchamp.kambaqrreaderlibraryproj
+package com.kamba.kambaqrreaderlibraryproj
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
-import com.juhchamp.kambaqrreaderlibrary.listeners.QrDetectorListener
+import com.kamba.qrreader.QrDetectorListener
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity(), QrDetectorListener {

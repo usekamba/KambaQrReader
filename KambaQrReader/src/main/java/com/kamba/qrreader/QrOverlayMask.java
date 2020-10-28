@@ -1,4 +1,4 @@
-package com.juhchamp.kambaqrreaderlibrary.ui;
+package com.kamba.qrreader;
 
 import android.content.Context;
 import android.content.res.Resources;

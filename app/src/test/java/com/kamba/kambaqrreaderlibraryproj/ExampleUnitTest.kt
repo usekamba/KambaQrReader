@@ -1,4 +1,4 @@
-package com.juhchamp.kambaqrreaderlibraryproj
+package com.kamba.kambaqrreaderlibraryproj
 
 import org.junit.Test
 

@@ -1,4 +1,4 @@
-package com.juhchamp.kambaqrreaderlibrary.ui
+package com.kamba.qrreader
 
 import android.content.Context
 import android.graphics.drawable.GradientDrawable
@@ -23,8 +23,6 @@ import com.google.mlkit.vision.barcode.BarcodeScanner
 import com.google.mlkit.vision.barcode.BarcodeScannerOptions
 import com.google.mlkit.vision.barcode.BarcodeScanning
 import com.google.mlkit.vision.common.InputImage
-import com.juhchamp.kambaqrreaderlibrary.R
-import com.juhchamp.kambaqrreaderlibrary.listeners.QrDetectorListener
 import com.otaliastudios.cameraview.CameraView
 import com.otaliastudios.cameraview.frame.Frame
 import com.otaliastudios.cameraview.frame.FrameProcessor

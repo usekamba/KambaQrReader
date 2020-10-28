@@ -1,4 +1,4 @@
-package com.juhchamp.kambaqrreaderlibraryproj
+package com.kamba.kambaqrreaderlibraryproj
 
 import android.annotation.SuppressLint
 import androidx.appcompat.app.AppCompatActivity
