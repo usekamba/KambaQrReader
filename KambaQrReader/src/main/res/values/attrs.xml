@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="QrReaderViewStyleable">
+        <attr name="lineWidth" format="dimension"/>
+        <attr name="barHeight" format="dimension"/>
+        <attr name="cornerWidth" format="dimension"/>
+        <attr name="cornerHeight" format="dimension"/>
+        <attr name="lineColor" format="color"/>
+        <attr name="waterMarkImage" format="reference"/>
+    </declare-styleable>
+</resources>

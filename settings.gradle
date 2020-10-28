@@ -1,0 +1,3 @@
+include ':KambaQrReader'
+include ':app'
+rootProject.name = "KambaQrReaderLibraryProj"
