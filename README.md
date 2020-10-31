@@ -72,9 +72,7 @@ Você pode pausar e despausar a visão da câmera por exemplo:
 ```Kotlin
    override fun onPause() {
         super.onPause()
-        if (cameraPermissionGranted) {
-            KambaQrReaderView.pauseCameraPreview()
-        }
+        KambaQrReaderView.pauseCameraPreview()
     }
 
     override fun onResume() {
